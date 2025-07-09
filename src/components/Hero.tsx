@@ -51,7 +51,8 @@ export default function Hero() {
           <div className="flex justify-center gap-6 mb-12 animate-fade-in-up animation-delay-1000">
             {[
               { icon: Github, href: 'https://github.com/Aryangupta221', label: 'GitHub' },
-              { icon: Linkedin, href: 'www.linkedin.com/in/aryan-gupta-0b9b5332a', label: 'LinkedIn' },
+{ icon: Linkedin, href: 'https://www.linkedin.com/in/aryan-gupta2233', label: 'LinkedIn' },
+
               { icon: Mail, href: '#', label: 'Email' }
             ].map((social, index) => (
               <a
